@@ -1,0 +1,15 @@
+#block {
+    width: 200px;
+    height: 200px;
+}
+
+.circle {
+    border-radius: 100%;
+    background-color: cornflowerblue;
+}
+
+.square {
+    border-radius: 0%;
+    background-color: coral;
+}
+
